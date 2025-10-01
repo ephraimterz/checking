@@ -55,7 +55,7 @@ This is AI generated, only making my first ever post here.
   </section>
 
   <footer>
-    <p>© 2025 Your Name. All rights reserved.</p>
+    <p>© 2025 Terzugwe Ephraim Lubem. All rights reserved.</p>
   </footer>
   
   <script src="script.js"></script>
